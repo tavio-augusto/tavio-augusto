@@ -1,4 +1,4 @@
-## Olá! Eu sou o Otávio Augusto
+## Olá! Me chamo Otávio
 <div>
   <a href="https://github.com/tavio-augusto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tavio-augusto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
