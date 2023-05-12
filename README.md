@@ -2,7 +2,7 @@
   <div style="display: inline_block"><br>
   
 É um prazer ter você aqui no meu GitHub, mais abaixo você poderá ver alguns projetos que fiz enquanto aprendo mais e mais do mundo de Desenvolvimento Front-End, ou para alguns, Desenvolvimento Web.
-Para entrar em contato comigo:
+##
   <img align="center" alt="Logo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Logo-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -10,7 +10,8 @@ Para entrar em contato comigo:
   <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Tavio-Bakugou" height="140" width="140" src="https://user-images.githubusercontent.com/89464049/131258750-65424e7f-c249-465e-a452-8073cca3c193.gif">
 </div>
-  
+
+Para entrar em contato comigo:
 ## 
 <div>
   <a href="https://instagram.com/tavio_gusto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
